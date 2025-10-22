@@ -53,9 +53,3 @@ If you use these instances in your research, please cite the original authors of
 ## 🤝 Contributions
 
 Feel free to contribute additional instances, parsers, or solvers. Open a pull request or submit an issue to get started.
-
----
-
-**Maintainer:** [Your Name or Institution]  
-**License:** [Specify license if applicable]
-
