@@ -1,4 +1,4 @@
-# ⚙️ MILP-Based Job Shop Scheduling with Tardiness Minimization
+# ⚙️ Job Shop Scheduling with Total Tardiness Minimization
 
 This repository contains source code, benchmark instances, and computational results for solving job shop scheduling problems using **Mixed Integer Linear Programming (MILP)** models. The focus is on minimizing **tardiness** across various classical formulations and datasets.
 
